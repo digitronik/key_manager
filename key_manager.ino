@@ -61,17 +61,17 @@ void loop()
   }
   if (count == 2)
   {
-    DigiKeyboard.println("Shetu Kumar");
+    DigiKeyboard.println("pass_1");
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
   }
   if (count == 3)
   {
-    DigiKeyboard.println("nikhil#");
+    DigiKeyboard.println("pass_2");
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
   }
   if (count == 4)
   {
-    DigiKeyboard.println("Abhijeet");
+    DigiKeyboard.println("pass_3");
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
   }
   
